@@ -1,0 +1,2 @@
+DOMNodeList::__set_state(array(
+))

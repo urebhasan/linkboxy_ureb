@@ -1,0 +1,73 @@
+[10-Feb-2020 15:24:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 54
+[10-Feb-2020 16:28:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 53
+[10-Feb-2020 22:46:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 59
+[10-Feb-2020 22:47:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 60
+[10-Feb-2020 22:47:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 60
+[10-Feb-2020 22:48:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 61
+[11-Feb-2020 16:47:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_results() in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 16
+[11-Feb-2020 16:48:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 15
+[11-Feb-2020 16:49:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fatch_all() in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 16
+[11-Feb-2020 16:53:30 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 41
+[11-Feb-2020 16:56:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 23
+[11-Feb-2020 16:56:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 23
+[11-Feb-2020 17:03:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 33
+[11-Feb-2020 17:03:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 33
+[11-Feb-2020 17:04:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 33
+[11-Feb-2020 17:04:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 33
+[11-Feb-2020 17:05:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 33
+[11-Feb-2020 17:05:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 33
+[11-Feb-2020 17:08:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.linkboxy.com/public_html/staging/cron/backlinks.php on line 55
